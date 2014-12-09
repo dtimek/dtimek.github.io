@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: "Latest Posts"
+title: "Home"
 ---
 
 <div class="tiles">
