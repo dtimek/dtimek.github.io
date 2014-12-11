@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: default
 permalink: /
-title: "Latest Posts"
+title: "Daniel Timek"
 ---
 
 <div class="tiles">
