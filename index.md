@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: https://drive.google.com/file/d/0B_kGF-alsBqBOUpKV3EwRFdfUkE/view?usp=sharing
 ---
 
 <div class="tiles">
