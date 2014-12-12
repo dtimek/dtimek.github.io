@@ -1,7 +1,12 @@
 // OFF CANVAS SLIDING MENU
 // Based on code by Diego Eis
 // --------------------------------------------------
-
+@media only screen 
+    and (min-device-width : 414px) 
+    and (max-device-width : 736px) 
+    and (orientation : portrait) 
+    and (-webkit-min-device-pixel-ratio : 3)
+    {
 .sliding-menu-button {
 	position: fixed;
 	top: $gutter;
@@ -254,4 +259,6 @@
 							transform: rotate3d(0,0,1,-45deg); 
 		}
 	}
+}
+
 }
