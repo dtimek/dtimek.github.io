@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-image:
+image:http://graphicpile.com/images-jekyll/a23eca92-857e-11e4-8ecf-893c03af99e2.jpg
   feature: wood-texture-1600x800.jpg
 ---
 
