@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: https://cloud.githubusercontent.com/assets/10107830/5466698/a23eca92-857e-11e4-8ecf-893c03af99e2.jpg
 ---
 
 <div class="tiles">
