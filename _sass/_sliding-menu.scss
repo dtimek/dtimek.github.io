@@ -2,6 +2,8 @@
 // Based on code by Diego Eis
 // --------------------------------------------------
 
+
+
 .sliding-menu-button {
 	position: fixed;
 	top: $gutter;
@@ -18,6 +20,7 @@
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
+	display:none;
 	@include media($medium) {
 		@include transform(0);
 	}
