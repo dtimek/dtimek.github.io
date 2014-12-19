@@ -21,8 +21,6 @@
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 	display: none;
-	display: none;
-
 	@include media($medium) {
 		@include transform(0);
 	}
