@@ -5,8 +5,8 @@
   excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
   image: 400x250.gif
 
-- title: Sample Articles
-  url: /articles/
+- title: Portfolio
+  url: /portfolio/
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
