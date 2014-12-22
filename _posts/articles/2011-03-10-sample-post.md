@@ -7,6 +7,10 @@ tags: [sample]
 toc: true
 comments: true
 ads: true
+image:
+  teaser: 400x250.gif
+  credit: Michael Rose #name of the person or site you want to credit
+  creditlink: http://mademistakes.com #url to their site or licensing
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
