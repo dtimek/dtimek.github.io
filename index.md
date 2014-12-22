@@ -8,8 +8,11 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 2</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+   <a href="http://dtimek.github.io/articles/sample-post/" title="Sample Post Style Guide" class="post-teaser"><img src="http://dtimek.github.io/images/400x250.gif" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2011-03-10" itemprop="datePublished">March 10, 2011</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://dtimek.github.io/articles/sample-post/">Sample Post Style Guide</a></h2>
+  <p class="post-excerpt" itemprop="description">Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
