@@ -12,6 +12,10 @@ Here are some examples of what a post with images might look like. If you want t
 
 ### One Up
 
+### My Role
+
+* User Personas, User Flows, Task Analysis, Wireframes, Visual Design, and Project Manager 
+
 <figure>
 	<a href="http://placehold.it/900x450.gif"><img src="http://placehold.it/900x450.gif"></a>
 	<figcaption>Image caption.</figcaption>
