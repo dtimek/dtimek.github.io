@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Testing Readability with a Bunch of Text"
+title: "NJ 2-1-1"
 categories: articles
 excerpt: "A ton of text to test readability."
 author: billy_rick
@@ -15,6 +15,9 @@ Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Aus
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
 ---
+### My Role
+
+* User Personas, User Flows, Task Analysis, Wireframes, Visual Design, and Project Manager 
 
 ## Cupidatat 90's lo-fi authentic try-hard
 
