@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "NJ 2-1-1"
+title: "Sample Post"
 categories: articles
 modified: 2014-08-27T11:57:41-04:00
 tags: [sample]
