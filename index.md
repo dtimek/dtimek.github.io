@@ -5,8 +5,8 @@ image:
   feature: wood-texture-1600x800.jpg
 ---
 
-<div class="tiles">
 <h2>Recent Work</h2>
+<div class="tiles">
 <div class="tile">
    <a href="http://dtimek.github.io/articles/sample-post/" title="Sample Post Style Guide" class="post-teaser"><img src="http://dtimek.github.io/images/400x250.gif" alt="teaser" itemprop="image" />
     </a>
