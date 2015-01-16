@@ -143,7 +143,7 @@
 
 #main {
 	.inner-wrap {
-		@include media($medium) {
+		@include media($large) {
 			@include span-columns(12);
 		}
 	}
