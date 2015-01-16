@@ -9,7 +9,6 @@ image:
 <div class="tile">
    <a href="http://dtimek.github.io/articles/sample-post/" title="Sample Post Style Guide" class="post-teaser"><img src="http://dtimek.github.io/images/400x250.gif" alt="teaser" itemprop="image" />
     </a>
-  <p class="entry-date date published"><time datetime="2011-03-10" itemprop="datePublished">March 10, 2011</time></p>
   <h2 class="post-title" itemprop="name"><a href="http://dtimek.github.io/articles/sample-post/">Sample Post Style Guide</a></h2>
   <p class="post-excerpt" itemprop="description">Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
 </div><!-- /.tile -->
