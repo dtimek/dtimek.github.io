@@ -144,7 +144,6 @@
 #main {
 	.inner-wrap {
 		@include fill-parent;
-		}
 	}
 	.toc {
 		@include media($medium) {
