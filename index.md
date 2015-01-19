@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: old-shirt-bckgrnd-1600x800.jpg
 ---
 
 <h2>Recent Work</h2>
