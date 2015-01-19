@@ -160,10 +160,10 @@
 		.page-content {
 			@include media($medium) {
 				@include row($direction: RTL);
-				//@include span-columns(8 of 9);
+				//@include span-columns(9 of 9);
 			}
 			@include media($large) {
-				@include span-columns(8 of 9);
+				@include span-columns(9 of 9);
 			}
 			// larger font for intro paragraph
 			> p {
