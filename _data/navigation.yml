@@ -1,5 +1,11 @@
 # Site navigation links
 
+- title: Home
+  url: /index.md
+  excerpt: "Examples of long form posts."
+  image: 400x250.gif
+
+
 - title: Work
   url: /work/
   excerpt: "Examples of long form posts."
