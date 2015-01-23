@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Home
-  url: http://dtimek.github.io/
+  url: index.md
   excerpt: "Examples of long form posts."
   image: 400x250.gif
 
