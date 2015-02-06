@@ -8,7 +8,7 @@ image:
 <h2>Work</h2>
 <div class="tiles">
 <div class="tile">
-   <a href="http://dtimek.github.io/articles/sample-post/" title="Sample Post Style Guide" class="post-teaser"><img src="http://dtimek.github.io/images/400x250.gif" alt="teaser" itemprop="image" />
+   <a href="portfolio/NJ211" title="NJ211" class="post-teaser"><img src="images/nj211-logo.gif" alt="teaser" itemprop="image" />
     </a>
   <h2 class="post-title" itemprop="name"><a href="portfolio/NJ211">Sample Post Style Guide</a></h2>
   <p class="post-excerpt" itemprop="description">Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
