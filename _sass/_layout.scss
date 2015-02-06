@@ -82,7 +82,7 @@
 		@include span-columns(12);
 	}
 	@include media($large) {
-		@include span-columns(7);
+		@include span-columns(12);
 		ul {
 			position: absolute;
 			right: 0;
@@ -143,7 +143,7 @@
 
 #main {
 	background: #fff;
-	
+
 	.inner-wrap {
 		@include fill-parent;
 	}
