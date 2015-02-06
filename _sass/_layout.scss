@@ -82,7 +82,7 @@
 		@include span-columns(12);
 	}
 	@include media($large) {
-		@include span-columns(6);
+		@include span-columns(6.5);
 		ul {
 			position: absolute;
 			right: 0;
@@ -141,6 +141,98 @@
 // MAIN
 // --------------------------------------------------
 
+#main-home {
+	.inner-wrap {
+		@include fill-parent;
+	}
+	.toc {
+		@include media($medium) {
+			@include row($direction: RTL);
+		}
+		@include media($large) {
+			@include span-columns(2 of 9);
+		}
+	}
+	.page-title {
+		@include fill-parent;
+	}
+	@at-root {
+		.page-content {
+			@include media($medium) {
+				@include row($direction: RTL);
+				//@include span-columns(9 of 9);
+			}
+			@include media($large) {
+				@include span-columns(9 of 9);
+			}
+			// larger font for intro paragraph
+			> p {
+				&:first-child {
+					@include font-size(20,yes,30);
+				}
+			}
+			// cleaner underlines for links
+			a { text-decoration: none; }
+			p > a,
+			li > a {
+				border-bottom: 1px dotted lighten($link-color, 50);
+				&:hover {
+					border-bottom-style: solid;
+				}
+			}
+			p > a.reversefootnote {
+				border-bottom-width: 0;
+			}
+			.page-footer,
+			.pagination {
+				@include fill-parent;
+			}
+			.page-meta {
+				p{
+					@include font-size(14,no);
+					font-family: $alt-font;
+					color: lighten($black,60);
+				}
+			}
+		}
+	}
+	@at-root {
+		.archive-wrap {
+			@include fill-parent;
+			.page-content {
+				@include reset-all;
+				@include fill-parent;
+			}
+		}
+	}
+	.ads {
+		position: relative;
+		text-align: center;
+		margin-top: $gutter;
+		margin-left: -$gutter;
+		margin-right: -$gutter;
+		padding: 10px 0 20px;
+		background: lighten($border-color,5);
+		@include media($medium) {
+			@include span-columns(3);
+			margin-left: 0;
+			margin-right: 0;
+		}
+		&:after {
+			content: 'Advertisement';
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+			text-align: center;
+			display: block;
+			@include font-size(9,no);
+			font-family: $alt-font;
+		}
+		ins {
+			border-width: 0;
+		}
+	}
+}
 #main {
 	background: #fff;
 
