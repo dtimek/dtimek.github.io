@@ -4,7 +4,7 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-	background: url(".../images/bckgrnd-texture.jpg");
+	background: url('.../images/bckgrnd-texture.jpg');
 	@include font-size(16);
 }
 
