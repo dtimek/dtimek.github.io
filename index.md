@@ -10,7 +10,7 @@ image:
 <div class="tile">
    <a href="http://dtimek.github.io/articles/sample-post/" title="Sample Post Style Guide" class="post-teaser"><img src="http://dtimek.github.io/images/400x250.gif" alt="teaser" itemprop="image" />
     </a>
-  <h2 class="post-title" itemprop="name"><a href="http://dtimek.github.io/articles/sample-post/">Sample Post Style Guide</a></h2>
+  <h2 class="post-title" itemprop="name"><a href="/_posts/work/2015-01-10-NJ211.md/">Sample Post Style Guide</a></h2>
   <p class="post-excerpt" itemprop="description">Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
 </div><!-- /.tile -->
 
