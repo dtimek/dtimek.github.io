@@ -15,7 +15,9 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
+  <a href="portfolio/GSWGA" title="GSWGA" class="post-teaser"><img src="images/GSWGA-logo.gif" alt="teaser" itemprop="image" />
+    </a>
+  <h2 class="post-title" itemprop="name"><a href="portfolio/GSWGA">newjerseywines.com</a></h2>
   <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
 </div><!-- /.tile -->
 
