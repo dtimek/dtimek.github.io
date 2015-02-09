@@ -428,7 +428,7 @@
 	}
 	font-family: $alt-font;
 	a {
-		display: block;
+		display: none;
 		padding: (.25 * $gutter) (.5 * $gutter);
 		border-left: 2px solid transparent;
 		&:hover,
