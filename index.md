@@ -22,8 +22,18 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <a href="portfolio/GSWGA" title="GSWGA" class="post-teaser"><img src="images/KAPOWER-logo.gif" alt="teaser" itemprop="image" />
+    </a>
+  <h2 class="post-title" itemprop="name"><a href="portfolio/GSWGA">newjerseywines.com</a></h2>
+  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
 </div><!-- /.tile -->
+
+<div class="tile">
+  <a href="portfolio/GSWGA" title="GSWGA" class="post-teaser"><img src="images/NJWINES-logo.gif" alt="teaser" itemprop="image" />
+    </a>
+  <h2 class="post-title" itemprop="name"><a href="portfolio/GSWGA">newjerseywines.com</a></h2>
+  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+</div><!-- /.tile -->
+
 
 </div><!-- /.tiles -->
