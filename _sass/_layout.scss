@@ -404,6 +404,7 @@
 	@include row;
 	margin-top: $gutter;
 	@include font-size(10,no);
+	display: none;
 	a {
 		display: none;
 		font-family: $alt-font;
