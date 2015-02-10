@@ -33,3 +33,6 @@ disqus-shortname:
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+
+<script src="//use.typekit.net/oyc2zrz.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
