@@ -27,8 +27,6 @@ image:
   <h2 class="post-title" itemprop="name"><a href="portfolio/GSWGA">newjerseywines.com</a></h2>
   <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
 </div><!-- /.tile -->
-<a href="#raptors"></a>
-
 <div class="tile">
   <a href="portfolio/GSWGA" title="GSWGA" class="post-teaser"><img src="images/NJWINES-logo.gif" alt="teaser" itemprop="image" />
     </a>
