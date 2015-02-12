@@ -29,3 +29,23 @@
 @import "animations";
 @import "layout";
 @import "pygments";
+
+
+.desc {
+	margin: auto; 
+	width: 25%; 
+	float: left; 
+	background: #fff; 
+	padding: 5px;
+}
+
+@media only screen and (min-device-width: 480px) {
+	
+
+	.desc {
+		margin: auto; 
+		width: 100%; 
+		background: #fff; 
+		padding: 5px;
+	}
+}
