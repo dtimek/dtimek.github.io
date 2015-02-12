@@ -31,6 +31,7 @@
 @import "pygments";
 
 
+@media only screen and (min-device-width: 992px){
 .desc {
 	margin: auto; 
 	width: 25%; 
@@ -38,6 +39,9 @@
 	background: #fff; 
 	padding: 5px;
 }
+
+}
+
 
 @media only screen and (min-device-width: 480px) {
 	
