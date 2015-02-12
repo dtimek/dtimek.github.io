@@ -39,11 +39,22 @@
 	padding: 5px;
 }
 
+.top-image {
+	float: left; 
+	width: 73%; 
+	margin-right: 20px
+}
+
 
 
 
 @media screen and (max-width: 600px) {
 	
+
+	.top-image {
+		width: 100%; 
+		margin: auto;
+	}
 
 	.desc {
 		margin: auto; 
