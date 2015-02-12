@@ -31,6 +31,16 @@
 @import "pygments";
 
 
+/******* HOME STYLES *******/
+
+.profile-image {
+	float:left; 
+	margin: 70px 40px 50px 0;
+}
+
+
+/******* ARTICLE STYLES *******/
+
 .desc {
 	margin: auto; 
 	width: 25%; 
@@ -50,6 +60,9 @@
 
 @media screen and (max-width: 600px) {
 	
+	.profile-image {
+		margin: auto;
+	}
 
 	.top-image {
 		width: 100%; 
