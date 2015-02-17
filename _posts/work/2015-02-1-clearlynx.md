@@ -13,7 +13,7 @@ image:
   creditlink: daniel timek
 ---
 <div style="width:100%; overflow: auto;">
-	<div class="top-image"><img src="images/Clearlynx-Homepage.jpg" alt="teaser" itemprop="image" /></div>
+	<div class="top-image"><img src="../../images/Clearlynx-Homepage.jpg" alt="teaser" itemprop="image" /></div>
 
 <div class="desc"><span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">MY ROLE</span><br>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
