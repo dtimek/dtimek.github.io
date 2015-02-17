@@ -20,7 +20,7 @@ image:
   <a href="portfolio/Kapower" title="KAPOWER!" class="post-teaser"><img src="images/KAPOWER-logo.gif" alt="teaser" itemprop="image" /></a>
 </div><!-- /.tile -->
 <div class="tile">
-  <a href="portfolio/clearlynx" title="ClearLynx" class="post-teaser"><img src="images/	" alt="teaser" itemprop="image" /></a>
+  <a href="portfolio/clearlynx" title="ClearLynx" class="post-teaser"><img src="images/clearlynx-logo.gif" alt="teaser" itemprop="image" /></a>
 </div><!-- /.tile -->
 
 
