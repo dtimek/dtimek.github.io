@@ -1,19 +1,19 @@
 ---
 layout: article
-title: "newjerseywines.com"
+title: "Kapower!"
 categories: portfolio
 excerpt: "events portal"
 author: daniel_timkek
-tags: [product-manager, wordpress, front-end]
+tags: [product-manager, pitch]
 ads: false
 
 image:
-  teaser: GSWGA-logo.gif
-  credit: IGM
-  creditlink: http://mademistakes.com #url to their site or licensing
+  teaser: KAPOWER-logo.gif
+  credit: KAPOWER!
+  creditlink: daniel timek
 ---
 <div style="width:100%; overflow: auto;">
-	<div class="top-image"><img src="../../images/GSWGA-Homepage.jpg"></div>
+	<div class="top-image"><iframe src="//player.vimeo.com/video/119753957" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/119753957">Kapower!</a> from <a href="https://vimeo.com/dtimek">Daniel Timek</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
 <div class="desc"><span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">MY ROLE</span><br>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
