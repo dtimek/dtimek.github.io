@@ -17,7 +17,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <a href="portfolio/Kapower!" title="KAPOWER!" class="post-teaser"><img src="images/KAPOWER-logo.gif" alt="teaser" itemprop="image" /></a>
+  <a href="portfolio/Kapower" title="KAPOWER!" class="post-teaser"><img src="images/KAPOWER-logo.gif" alt="teaser" itemprop="image" /></a>
 </div><!-- /.tile -->
 <div class="tile">
   <a href="portfolio/GSWGA" title="GSWGA" class="post-teaser"><img src="images/NJWINES-logo.gif" alt="teaser" itemprop="image" /></a>
