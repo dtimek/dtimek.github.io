@@ -34,8 +34,8 @@ image:
 </div>
 <br>
 <figure>
-     <img src="../../images/GSWGA-Pages-Mobile.jpg" alt="gswga mobile">
+     <img src="../../images/Clearlynx-Pages.jpg" alt="clearlynx-pages">
 </figure>
 <figure>
-     <img src="../../images/Clearlynx-Pages.jpg" alt="clearlynx-pages">
+     <img src="../../images/ClearLynx-Pages-Mobile-Wireframes.jpg" alt="clearlynx-pages">
 </figure>
