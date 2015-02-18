@@ -17,28 +17,19 @@ image:
 
 <div class="desc"><span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">MY ROLE</span><br>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Project Manager, Front-End Developer</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Project Manager</li>
 </ul>
 <span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">CHALLENGE</span>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Produce a resonsive website.
-</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Create a portal for all events.</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Site must convert visitors to attendees at events.
-</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Be a directory for all member wineries.
-</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Share winery activities with friends.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Large amount of tabular data.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Integrate chat feature.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Three different user behaviors.</li>
 </ul>
 <span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">SOLUTION</span>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Site and features designed for different screen sizes.
-</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">User access for wineries to update their profile page.
-</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Simple shareability links.</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Different viewing options and categories for events.</li>
-</ul>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Identify all forms of tabular data and create a color system to identify them.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Chat feature occupies the right margin.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Identify the different actions and data that is unique to each user.</li></ul>
 </div>
 </div>
 <br>
@@ -46,5 +37,5 @@ image:
      <img src="../../images/GSWGA-Pages-Mobile.jpg" alt="gswga mobile">
 </figure>
 <figure>
-     <img src="../../images/GSWGA-Pages.jpg" alt="gswga page">
+     <img src="../../images/Clearlynx-Pages.jpg" alt="clearlynx-pages">
 </figure>
