@@ -41,5 +41,5 @@ image:
      <img src="../../images/ClearLynx-Pages-Mobile-Wireframes.jpg" alt="clearlynx-pages">
 </figure>
 
-<a href="http://app.mockflow.com/view/c3eb80852208c8ffda771ddf112f0cc1" target="_blank">Desktop Protoype</a><br>
-<a href="http://app.mockflow.com/view/09E905A55F0DE44F910699CF256C1C48" target="_blank">Mobile Protoype</a>
+<a href="http://app.mockflow.com/view/c3eb80852208c8ffda771ddf112f0cc1" target="_blank">View Desktop Protoype</a><br>
+<a href="http://app.mockflow.com/view/09E905A55F0DE44F910699CF256C1C48" target="_blank">View Mobile Protoype</a>
