@@ -27,9 +27,10 @@ image:
 </ul>
 <span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">SOLUTION</span>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Identify all forms of tabular data and create a color system to identify them.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Identify the different actions and data that is unique to each user.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Identify different types of tabular data and create a color system to differentiate.</li>
 <li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Chat feature occupies the right margin.</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Identify the different actions and data that is unique to each user.</li></ul>
+</ul>
 </div>
 </div>
 <br>
@@ -39,3 +40,7 @@ image:
 <figure>
      <img src="../../images/ClearLynx-Pages-Mobile-Wireframes.jpg" alt="clearlynx-pages">
 </figure>
+<br>
+
+<a href="http://app.mockflow.com/view/c3eb80852208c8ffda771ddf112f0cc1" target="_blank">Desktop Protoype</a>
+<a href="http://app.mockflow.com/view/09E905A55F0DE44F910699CF256C1C48" target="_blank">Mobile Protoype</a>
