@@ -12,7 +12,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <a href="portfolio/GSWGA" title="GSWGA" class="post-teaser"><img src="images/GSWGA-logo.gif" alt="teaser" itemprop="image" />
+  <a href="portfolio/njwines" title="NJwines" class="post-teaser"><img src="images/njwines-app.gif" alt="teaser" itemprop="image" />
     </a>
 </div><!-- /.tile -->
 
