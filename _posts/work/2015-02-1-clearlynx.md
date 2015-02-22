@@ -17,7 +17,7 @@ image:
 
 <div class="desc"><span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">MY ROLE</span><br>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Project Manager</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Project Manager.</li>
 </ul>
 <span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">CHALLENGE</span>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
@@ -34,9 +34,11 @@ image:
 </div>
 </div>
 <br>
+###interior pages
 <figure>
      <img src="../../images/Clearlynx-Pages.jpg" alt="clearlynx-pages">
 </figure>
+###mobile wireframes
 <figure>
      <img src="../../images/ClearLynx-Pages-Mobile-Wireframes.jpg" alt="clearlynx-pages">
 </figure>
