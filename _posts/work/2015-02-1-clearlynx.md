@@ -28,7 +28,7 @@ image:
 <span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">SOLUTION</span>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
 <li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Identify the different actions and data that is unique to each user.</li>
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Identify different types of tabular data and create a color system to differentiate.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Create a color system to differentiate tabular data.</li>
 <li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Chat feature occupies the right margin.</li>
 </ul>
 </div>
