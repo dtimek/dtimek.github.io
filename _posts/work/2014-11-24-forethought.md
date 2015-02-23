@@ -31,7 +31,9 @@ image:
 </div>
 <br>
 <figure class="half">
-     <img src="../../images/Forethought_ipad.jpg" alt="desktop3">
      <img src="../../images/Forethought_homepage.jpg" alt="desktop3">
      <img src="../../images/Forethought_secuefore.jpg" alt="desktop3">
+</figure>
+<figure>
+     <img src="../../images/Forethought_ipad.jpg" alt="desktop3">
 </figure>
