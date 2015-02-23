@@ -33,11 +33,12 @@ image:
 </ul>
 </div>
 </div>
-<br>
+
 ### interior pages
 <figure>
      <img src="../../images/Clearlynx-Pages.jpg" alt="clearlynx-pages">
 </figure>
+
 ### mobile wireframes
 <figure>
      <img src="../../images/ClearLynx-Pages-Mobile-Wireframes.jpg" alt="clearlynx-pages">
