@@ -31,7 +31,7 @@ image:
 </div>
 </div>
 <br>
-<figure class="third">
+<figure class="half">
      <img src="../../images/homepage2.jpg" alt="gswga mobile">
      <img src="../../images/iPad_sweetpraises.jpg" alt="gswga mobile">
      <img src="../../images/Sweet_praises_wireframe.jpg" alt="gswga mobile">
