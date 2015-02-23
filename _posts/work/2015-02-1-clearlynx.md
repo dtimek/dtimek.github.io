@@ -34,11 +34,11 @@ image:
 </div>
 </div>
 <br>
-###interior pages
+### interior pages
 <figure>
      <img src="../../images/Clearlynx-Pages.jpg" alt="clearlynx-pages">
 </figure>
-###mobile wireframes
+### mobile wireframes
 <figure>
      <img src="../../images/ClearLynx-Pages-Mobile-Wireframes.jpg" alt="clearlynx-pages">
 </figure>
