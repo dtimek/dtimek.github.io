@@ -3,16 +3,10 @@
 - title: Home
   url: /
   excerpt: ""
-  image: 400x250.gif
+  image: home-image.gif
 
 
 - title: Work
   url: /work/
   excerpt: "My most recent work."
-  image: 400x250.gif
-
-
-- title: About
-  url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
-  image: 400x250.gif
+  image: work-image.gif
