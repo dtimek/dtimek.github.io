@@ -21,11 +21,13 @@ image:
 </ul>
 <span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">CHALLENGE</span>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Adhere to Citi branding.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Responsive website.</li>
 </ul>
-<span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">ANALYSIS</span>
+<span style="font-family: adelle-sans; font-size: 13px; font-weight:600;">SOLUTION</span>
 <ul style="font-family: adelle-sans; font-size: 13px; font-weight:500;">
-<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;"></li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Drawer menu.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Define image dimensions for phone and desktop.</li>
+<li style="font-family: adelle-sans; font-size: 13px; font-weight:500;">Flexible grids.</li>
 </ul>
 </div>
 </div>
