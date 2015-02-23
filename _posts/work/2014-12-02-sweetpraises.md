@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "njwines"
+title: "sweetpraises"
 categories: portfolio
 excerpt: ""
 author: daniel_timkek
