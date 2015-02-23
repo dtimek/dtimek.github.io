@@ -79,7 +79,7 @@
 	display: none;
 	position: relative;
 	@include media($medium) {
-		@include span-columns(8);
+		@include span-columns(10);
 	}
 	@include media($large) {
 		@include span-columns(7);
