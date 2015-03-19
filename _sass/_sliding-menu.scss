@@ -49,7 +49,7 @@
 	}
 	@include transform(translateX(100%));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
-	background: $sliding-menu-background;
+	background: #333;
 	z-index: 5;
 	overflow-y: auto;
 	overflow-x: hidden;
