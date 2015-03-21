@@ -12,9 +12,12 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+## Heading 2: Me, Personally
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+### Body text 
+
+hotographer, visual artist, rock-climber, musician & DJ, cautious optimist, INFJ, always eat twice my weight. NYU-graduate, Baltimore-born and bred.
+
 <ul class="th-grid">
   <li>
     <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
