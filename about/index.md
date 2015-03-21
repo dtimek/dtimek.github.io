@@ -12,11 +12,9 @@ share: false
 ads: false
 ---
 
-## Heading 2: Me, Personally
+## Me, Personally
 
-### Body text 
-
-hotographer, visual artist, rock-climber, musician & DJ, cautious optimist, INFJ, always eat twice my weight. NYU-graduate, Baltimore-born and bred.
+### Photographer, visual artist, rock-climber, musician & DJ, cautious optimist, INFJ, always eat twice my weight. NYU-graduate, Baltimore-born and bred.
 
 <ul class="th-grid">
   <li>
