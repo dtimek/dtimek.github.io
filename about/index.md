@@ -21,25 +21,25 @@ ads: false
     <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/comics-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/dolly-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/drawing-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/hiking-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/movies-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/pc-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/solar-about.jpg" alt=""></a>
   </li>
 </ul>
 
