@@ -18,52 +18,28 @@ ads: false
 
 <ul class="th-grid">
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+    <a href="#"><img src="../../book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+    <a href="#"><img src="../../book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+    <a href="#"><img src="../../book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+    <a href="#"><img src="../../book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+    <a href="#"><img src="../../book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+    <a href="#"><img src="../../book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+    <a href="#"><img src="../../book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
-  </li>
-  <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
-  </li>
-  <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
-  </li>
-  <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
-  </li>
-  <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
-  </li>
-  <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
-  </li>
-  <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
-  </li>
-  <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
-  </li>
-  <li>
-    <a href="#"><img src="http://placehold.it/150x150.gif" alt=""></a>
+    <a href="#"><img src="../../book-about.jpg" alt=""></a>
   </li>
 </ul>
 
