@@ -18,28 +18,28 @@ ads: false
 
 <ul class="th-grid">
   <li>
-    <a href="#"><img src="../../book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
   <li>
-    <a href="#"><img src="../../book-about.jpg" alt=""></a>
+    <a href="#"><img src="../../images/book-about.jpg" alt=""></a>
   </li>
 </ul>
 
