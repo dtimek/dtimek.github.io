@@ -14,7 +14,7 @@ ads: false
 
 ## Me, Personally
 
-<p style="font-size: 16px;">Hi frequency reader, comics reader, DIY filmmaker, visual artist, hiker, national park enthusiast, movie lover, technologist and science nerd.</p>
+<p style="font-size: 16px;">High frequency reader, comics reader, DIY filmmaker, visual artist, hiker, national park enthusiast, movie lover, technologist and science nerd.</p>
 
 <ul class="th-grid">
   <li>
