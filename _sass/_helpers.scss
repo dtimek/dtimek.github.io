@@ -67,7 +67,7 @@
     list-style: none;
     @include span-columns(3);
     @include omega(4n);
-    margin-bottom: flex-gutter($grid-columns);
+    margin-bottom: 40px;
   }
   a {
     img {
