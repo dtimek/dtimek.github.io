@@ -339,6 +339,7 @@
 	@include media($large) {
 		background-size: cover;
 		margin-top: 50px;
+		padding-bottom: 50px;
 	}
 }
 .page-lead-content {
