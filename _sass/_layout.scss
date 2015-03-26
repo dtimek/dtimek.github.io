@@ -339,7 +339,8 @@
 	@include media($large) {
 		background-size: cover;
 		margin-top: 50px;
-		padding-bottom: 50px;
+		display: webkit-box;
+		vertical-align: middle;
 	}
 }
 .page-lead-content {
