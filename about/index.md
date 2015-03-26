@@ -14,7 +14,7 @@ ads: false
 
 ## Me, Personally
 
-<p style="font-size: 16px;">High frequency reader, comics reader, DIY filmmaker, visual artist, hiker, national park enthusiast, movie lover, technologist and science nerd.</p>
+<p style="font-size: 16px;">High frequency reader, comics fan, DIY filmmaker, visual artist, hiker, national park enthusiast, movie lover, technologist and science nerd.</p>
 
 <ul class="th-grid">
   <li>
@@ -45,7 +45,7 @@ ads: false
 
 
 <div class="inline-btn">
-	<a class="btn-social twitter" href="https://twitter.com/intent/tweet?text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}&amp;via={{ site.owner.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Share on Twitter</a>
-	<a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Share on Facebook</a>
-	<a class="btn-social google-plus"  href="https://plus.google.com/share?url={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> Share on Google+</a>
+	<a class="btn-social twitter" href="https://twitter.com/danieltimed" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i>Twitter</a>
+	<a class="btn-social tumblr" href="http://graphicpile.tumblr.com/" target="_blank"><i class="fa fa-tumblr" aria-hidden="true"></i>Tumblr</a>
+	<a class="btn-social vimeo"  href="https://vimeo.com/dtimek" target="_blank"><i class="fa fa-vimeo" aria-hidden="true"></i> Share on Google+</a>
 </div><!-- /.share-this -->
