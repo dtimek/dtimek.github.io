@@ -13,6 +13,11 @@ ads: false
 ---
 
 ## Me, Personally
+<div class="inline-btn">
+  <a class="btn-social twitter" href="https://twitter.com/danieltimed" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+  <a class="btn-social tumblr" href="http://graphicpile.tumblr.com/" target="_blank"><i class="fa fa-tumblr" aria-hidden="true"></i> Tumblr</a>
+  <a class="btn-social vimeo"  href="https://vimeo.com/dtimek" target="_blank"><i class="fa fa-vimeo" aria-hidden="true"></i>  Vimeo</a>
+</div><!-- /.share-this -->
 
 <p style="font-size: 16px;">High frequency reader, comics fan, DIY filmmaker, visual artist, hiker, national park enthusiast, movie lover, technologist and science nerd.</p>
 
@@ -44,8 +49,3 @@ ads: false
 </ul>
 
 
-<div class="inline-btn">
-	<a class="btn-social twitter" href="https://twitter.com/danieltimed" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-	<a class="btn-social tumblr" href="http://graphicpile.tumblr.com/" target="_blank"><i class="fa fa-tumblr" aria-hidden="true"></i> Tumblr</a>
-	<a class="btn-social vimeo"  href="https://vimeo.com/dtimek" target="_blank"><i class="fa fa-vimeo" aria-hidden="true"></i>  Vimeo</a>
-</div><!-- /.share-this -->
