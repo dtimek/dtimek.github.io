@@ -17,7 +17,7 @@ ads: false
   <a class="btn-social twitter" href="https://twitter.com/danieltimed" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
   <a class="btn-social tumblr" href="http://graphicpile.tumblr.com/" target="_blank"><i class="fa fa-tumblr" aria-hidden="true"></i> Blog</a>
   <a class="btn-social vimeo"  href="https://vimeo.com/dtimek" target="_blank"><i class="fa fa-vimeo-square" aria-hidden="true"></i>  Video Work</a>
-   <a class="btn-social linkedin"  href="www.linkedin.com/in/danieltimek" target="_blank"><i class="fa fa-vimeo-linkedin" aria-hidden="true"></i>  Work Experience</a>
+   <a class="btn-social linkedin"  href="www.linkedin.com/in/danieltimek" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i>  Work Experience</a>
 </div><!-- /.share-this -->
 
 <p style="font-size: 16px;">High frequency reader, comics fan, DIY filmmaker, visual artist, hiker, national park enthusiast, movie lover, technologist and science nerd.</p>
